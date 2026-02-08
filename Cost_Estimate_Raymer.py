@@ -12,7 +12,6 @@ M_max = 1.6 # Engine maximum Mach number
 T_turb_inlet = 4000 # Turbine inlet tempearature (approx 3700 - 4100 rankine)
 CPI = 1.43 # 2012 to 2025
 
-# Change the number above depending on the category you want to calculate
 # 0. Engineering Cost
 # 1. Tooling Cost
 # 2. Manufacturing Cost
